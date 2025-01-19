@@ -1,4 +1,4 @@
-**Python-Chess**
+**Chess-Python**
 
 Gra w szachy napisana w Pythonie z wykorzystaniem bibliotek pygame i tkinter. Aplikacja obsługuje podstawowe zasady gry w szachy, takie jak ruchy figur, bicie, sprawdzanie szacha, mata oraz promocję pionków.
 
