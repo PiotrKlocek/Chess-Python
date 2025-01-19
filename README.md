@@ -23,7 +23,7 @@ Gra w szachy napisana w Pythonie z wykorzystaniem bibliotek pygame i tkinter. Ap
    pip install pygame
 
 3. Upewnij się, że masz następującą strukturę katalogów dla obrazków:
-   main/
+   
    
 └── images/
 
@@ -88,7 +88,7 @@ Reprezentuje gońca. Porusza się po przekątnych.
 **Struktura Plików**
 - main.py: Główny plik zawierający pętlę gry i logikę renderowania GUI.
 - pawn.py, queen.py, king.py, rook.py, knight.py, bishop.py: Pliki definiujące figury szachowe oraz ich logikę ruchów.
-- main/images/: Katalog zawierający obrazki figur szachowych.
+- images/: Katalog zawierający obrazki figur szachowych.
 
 
 Gif pokazujący działanie aplikacji:
