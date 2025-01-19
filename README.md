@@ -16,7 +16,7 @@ Gra w szachy napisana w Pythonie z wykorzystaniem bibliotek pygame i tkinter. Ap
    
    git clone https://github.com/Pioter1290/Chess-Python.git
    
-   cd Python-Chess
+   cd Chess-Python
 
 2. Zainstaluj bibliotekę pygame:
  
