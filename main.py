@@ -181,9 +181,9 @@ def change_pawn_to_queen(pawn):
     pieces.remove(pawn)
     color = pawn.color
     if (color == "white"):
-        new_queen = Queen(pawn.color, (col, row), f'main/images/white_queen.png')
+        new_queen = Queen(pawn.color, (col, row), f'images/white_queen.png')
     else:
-        new_queen = Queen(pawn.color, (col, row), f'main/images/black_queen.png')
+        new_queen = Queen(pawn.color, (col, row), f'images/black_queen.png')
     pieces.append(new_queen)
 
 
