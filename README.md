@@ -91,7 +91,7 @@ Reprezentuje gońca. Porusza się po przekątnych.
 - images/: Katalog zawierający obrazki figur szachowych.
 
 
-Gif pokazujący działanie aplikacji:
+
 
   
 ![ezgif-4-64a782a2a8](https://github.com/user-attachments/assets/211f56f4-bafe-4036-9d9f-99db00e56884)
